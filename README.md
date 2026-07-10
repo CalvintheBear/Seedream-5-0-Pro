@@ -24,51 +24,39 @@ While other models were still fighting over who makes prettier pictures, Seedrea
 This is not just another AI image generator.  
 This is the first model built for **real commercial workflows**.
 
-**[Try Seedream 5.0 Pro Free →](https://seedream-5.io/)**
-
 ---
 
-## 📸 Official Demo Gallery from Seedream-5.io
+## 📸 Official Demo Gallery
 
 <p align="center">
-  <img src="./images/hvO8p.jpg" alt="Seedream 5.0 Pro Character Consistency Grid" width="900"/>
+  <img src="https://pub-67d7f3a47473440aa154d95c462ed880.r2.dev/showcase/hero-example/hero-image-replacements-20260624/01_home-creative-studio-hero.jpg" alt="Seedream 5.0 Pro Hero" width="900"/>
 </p>
 
-**Character Consistency Grid** — Same character, multiple styles, perfect identity lock across 24 variations.
+**Hero Creative Studio** — High-end production ready visual.
 
 <p align="center">
-  <img src="./images/mWP4e.jpg" alt="Seedream 5.0 Pro Fantasy Cinematic Scene" width="900"/>
+  <img src="https://pub-67d7f3a47473440aa154d95c462ed880.r2.dev/showcase/seedream5/HMyaKreaoAAsQES.jpg" alt="Seedream 5.0 Pro Demo 1" width="900"/>
 </p>
 
-**Cinematic Fantasy Scene** — Complex lighting, materials, and composition generated in one pass.
+**Character Consistency & Style Control**
 
 <p align="center">
-  <img src="./images/8Ir7K.jpg" alt="Seedream 5.0 Pro Character Design Sheet" width="900"/>
+  <img src="https://pub-67d7f3a47473440aa154d95c462ed880.r2.dev/showcase/seedream5/HMyds-HaQAAAfib.jpg" alt="Seedream 5.0 Pro Demo 2" width="900"/>
 </p>
 
-**Professional Character Design Sheet** — Full turnaround, expressions, silhouette, and detail studies.
+**Professional Portrait & Lighting**
 
 <p align="center">
-  <img src="./images/W5m5z.jpg" alt="Seedream 5.0 Pro Location Board" width="900"/>
+  <img src="https://pub-67d7f3a47473440aa154d95c462ed880.r2.dev/showcase/seedream5/HMH2zRHbEAA-gyx.jpg" alt="Seedream 5.0 Pro Demo 3" width="900"/>
 </p>
 
-**Location Board / Environment Consistency** — Multi-angle, multi-time, multi-weather control for production.
+**Cinematic Scene Generation**
 
 <p align="center">
-  <img src="./images/z82Zk.jpg" alt="Seedream 5.0 Pro Anime Character Sheet" width="900"/>
+  <img src="https://pub-67d7f3a47473440aa154d95c462ed880.r2.dev/showcase/seedream5/HMj8e7Ya4AAHdYq.jpg" alt="Seedream 5.0 Pro Demo 4" width="900"/>
 </p>
 
-**High-Fidelity Character Turnaround** — Expressions, poses, detail close-ups — ready for animation or video.
-
-<p align="center">
-  <img src="./images/FpaT3.jpg" alt="Seedream 5.0 Pro Hero Banner" width="900"/>
-</p>
-
-**Hero Interface Showcase** — The clean, professional experience of Seedream 5.0 Pro.
-
-> All images above are real outputs / demos from Seedream 5.0 Pro.  
-> Character consistency across multiple angles, expressions, and lighting — without any post-processing.  
-> Source: Official demos from seedream-5.io
+**High Detail Character & Product Work**
 
 ---
 
@@ -183,8 +171,6 @@ One model that handles Chinese, English, Arabic, Spanish, Japanese perfectly.
 ### 7. Design Agencies & Studios
 From rough sketch to client-ready concept with full layer control.
 
-**[Create Your First Commercial Visual →](https://seedream-5.io/)**
-
 ---
 
 ## 🛠️ How to Use Seedream 5.0 Pro (Step-by-Step)
@@ -217,8 +203,6 @@ All paid plans include:
 - No watermark
 - Native 4K
 - Priority processing
-
-**[View Pricing & Start Free →](https://seedream-5.io/)**
 
 ---
 
@@ -263,7 +247,7 @@ If you are a:
 
 ---
 
-## 📢 Official Links
+## 📢 Official Links (Only 2)
 
 - Homepage: [https://seedream-5.io/](https://seedream-5.io/)
 - Seedream 5.0 Pro Page: [https://seedream-5.io/seedream-5-0-pro](https://seedream-5.io/seedream-5-0-pro)
